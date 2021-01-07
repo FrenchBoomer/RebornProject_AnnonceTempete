@@ -10,6 +10,6 @@ version "1.0.0"
 
 shared_script "Config/*.lua"
 
-server_scripts "Serveur/*.lua"
+server_script "Serveur/*.lua"
 
-client_scripts "Client/*.lua"
+client_script "Client/*.lua"
